@@ -17,6 +17,7 @@ let varFour;
 
 //declaring variables and assigning values
 let that = 'this';
+let chris = 'werey';
 
 //Declaring my variable and assigning values in multiple line
 let firstName = 'Habib'
