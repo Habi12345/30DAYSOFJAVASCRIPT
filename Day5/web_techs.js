@@ -1,0 +1,1 @@
+let webTechs = ['Python', 'Javascript', 'React', 'PHP', 'C++', 'C#']
